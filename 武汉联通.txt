@@ -1,4 +1,4 @@
-中央台,#genre#
+央视频道,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1#http://183.94.91.187:8123/udp/228.0.0.1:6108 
 CCTV2,http://go.bkpcp.top/mg/cctv2#http://183.94.91.187:8123/udp/228.0.0.2:6108 
 CCTV3,http://go.bkpcp.top/mg/cctv3#http://183.94.91.187:8123/udp/228.0.0.156:7156 
@@ -18,7 +18,7 @@ CCTV15,http://go.bkpcp.top/mg/cctv15#http://183.94.91.187:8123/udp/228.0.0.15:61
 CCTV16,http://go.bkpcp.top/mg/cctv16#http://183.94.91.187:8123/udp/228.0.0.249:6108
 CCTV17,http://go.bkpcp.top/mg/cctv17#
 
-各地方台,#genre#
+卫视频道,#genre#
 河南卫视,http://go.bkpcp.top/mg/hnws#http://183.94.91.187:8123/udp/228.0.0.230:6108
 湖南卫视,http://go.bkpcp.top/mg/hunws#http://183.94.91.187:8123/udp/228.0.0.61:6108 
 湖北卫视,http://go.bkpcp.top/mg/hubws#http://183.94.91.187:8123/udp/228.0.0.60:6108#http://183.94.91.187:8123/udp/228.0.0.232:6108 
